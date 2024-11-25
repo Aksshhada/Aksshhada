@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1068/0*iJKRaxqxWuWAQYF3.png)
-<h1 align="center">Hi 👋, I'm Akshada</h1>
+<h1 align="center">Hey! 👋, I'm Akshada</h1>
 <h3 align="center">I'm a Fullstack Web Developer</h3>
 <img align = "right" src = "https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif" alt = "Coding" width = 400>
 
