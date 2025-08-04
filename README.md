@@ -18,7 +18,7 @@
                                                                             height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><img align="center" src= /></a>
+<h3 align="left"></></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
